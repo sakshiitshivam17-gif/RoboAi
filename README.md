@@ -14,5 +14,3 @@ A Python AI voice assistant using the OpenAI API and Linux speech synthesis.
 4. Install the SDK: pip install openai
 5. Set OPENAI_API_KEY in your environment.
 6. Run: python main1.py
-
-Never publish API keys or secrets.
